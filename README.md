@@ -1,3 +1,3 @@
-#this is the project's README file
+This is a sample program to how to upload files through GIT code in command line. 
 
-## replace me with important information
+
